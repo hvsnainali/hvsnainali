@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **IOS**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **Alihasnain531@gmail.com**
 
