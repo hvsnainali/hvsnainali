@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hvsnainali" target="blank"><img src="https://img.shields.io/twitter/follow/hvsnainali?logo=twitter&style=for-the-badge" alt="hvsnainali" /></a> </p>
 
-- 🌱 I’m currently learning **React Native & MATLAB**
+- 🌱 I’m currently learning **MATLAB**
 
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about **PYTHON & React Native**
 
 - 📫 How to reach me **Alihasnain531@gmail.com**
 
