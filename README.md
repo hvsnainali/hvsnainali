@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/hvsnainali" target="blank"><img src="https://img.shields.io/twitter/follow/hvsnainali?logo=twitter&style=for-the-badge" alt="hvsnainali" /></a> </p>
 
-- 🌱 I’m currently learning **MATLAB**
+- 🌱 I’m currently learning **Git, Aws & C++**
 
 - 💬 Ask me about **PYTHON & React Native**
 
-- 📫 How to reach me **Alihasnain531@gmail.com**
+- 📫 How to reach me **info@hvsnainali.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
