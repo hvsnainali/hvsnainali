@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hvsnainali" target="blank"><img src="https://img.shields.io/twitter/follow/hvsnainali?logo=twitter&style=for-the-badge" alt="hvsnainali" /></a> </p>
 
-- 🌱 I’m currently learning **Git, Aws & C++**
+- 🌱 I’m currently learning **Git, AWS & C++**
 
 - 💬 Ask me about **PYTHON & React Native**
 
